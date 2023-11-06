@@ -1,1 +1,14 @@
-/*  your css code here. If applicable */
+
+.modal-header{
+	display:flex;
+	justify-content:space-between;
+	background:#4eab4d;
+}
+#modal{
+	background-color:white;
+	width:90vw;
+	height:130px;
+	display:flex;
+	flex-direction:column;
+	
+}
